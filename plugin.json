@@ -1,0 +1,11 @@
+{
+  "main": "index.html",
+	"logo": "finder.png",
+	"features": [
+		{
+		  "code": "opendir",
+		  "explain": "在explorer(win)或finder(mac)中打开指定的目录",
+			"cmds":["opendir", "od", "dir"]
+		}
+	]
+}
